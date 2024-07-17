@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConEd.HeavyBid.Importer", "ConEd.HeavyBid.Importer\ConEd.HeavyBid.Importer.csproj", "{DB83CBCC-A217-4F3B-A3DC-3014B3D7FC9F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB83CBCC-A217-4F3B-A3DC-3014B3D7FC9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB83CBCC-A217-4F3B-A3DC-3014B3D7FC9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB83CBCC-A217-4F3B-A3DC-3014B3D7FC9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB83CBCC-A217-4F3B-A3DC-3014B3D7FC9F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E10B2BBC-9AEF-4EDC-A92D-393F3C09DC32}
+	EndGlobalSection
+EndGlobal
